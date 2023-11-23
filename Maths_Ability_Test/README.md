@@ -1,1 +1,1 @@
-
+This is a maths ability test with 3 sets where each set has 10 questions. The difficulty level increases from the first to third set. The total score and average time taken to answer each question will be reported at the end of the test.
